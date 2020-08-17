@@ -1,0 +1,60 @@
+# ISTA PROJECT ##
+
+### Rawlston Morton
+
+### July 15, 2020
+
+
+## Sports Team Fanpage
+
+### Introduction
+For my ISTA Project, I took the advice of keeping the project realistic in expectations. I am learning as 
+I go and do not have the knowledge to create something vast just yet. I spend alot of time on forums where I learn fixes for my cars, computers, and various other household items. I have noticed that the layout of these forums are fairly simple, but offer lots of knowledge and a sense of community within. Being able to share ideas with others that have a common interests is awesome. For my project, I have selected a sports team theme for the "Boston Red Sox." I want to create a web app filled with information regarding various aspects of the team with several functions.
+
+### Planning Phase
+
+
+> Set goals for project completion, this includes timelines and milestones of progress to hold myself accountable.
+
+>Gain a further understanding of C# functions, learning on my own and practicing with code. 
+
+> Develop my ability to create a database in SQL, and utilize my db in conjuction with C#.
+
+### Programming Phase
+
+My main goal is to become farmiliar with several functions to demonstrate thorough understanding. I continue to gather ideas in my head that could benefit the page, but functions that I believe are vital in my   webpage include:
+> Username and Password Login
+
+> Forum Section for Fan Discussions About the Team, Players, Trades etc. (Somewhere they can post public comments and reply to each other.)
+
+> Ability to upload Profile Pictures
+
+> A clean user interface that is easy to use and functional
+
+### Data Phase
+On my webpage, I will need to include a database with a plethora of information about the players, some of the items I want to include are:
+
+>ERA (Earned Run Averages) - Pitchers
+
+> Batting Averages, Homeruns, RBIs for regular hitters.
+
+> Equipment used by Team -  Brands, Quantities
+
+> If possible, a schedule for upcoming games to include locations and opposing teams with dates.
+
+### Plan of Action
+
+> I need to begin by further outlining which information I want to include to give the page substance.
+
+> I need to learn how to develop a webpage. 
+
+> Need to create a thorough database
+
+> Research and Practice, Trial and Error.
+
+> One step at a time, staying on track to ensure completion.
+
+
+
+## Thanks for listening
+
