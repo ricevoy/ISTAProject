@@ -1,0 +1,42 @@
+##Rawlston Morton
+## Project Step 7
+## August 16, 2020
+
+###Use Case: Posting to a Forum Thread
+
+###Actors:
+
+##Rawlston Morton
+## Project Step 7
+### August 16, 2020
+____________________________________________________________
+###Use Case: Posting to a Forum Thread
+
+##### Actors
+
+	Boston Red Sox Fans
+	
+##### Trigger
+
+	Fans want to comment on a bad call for one of the Red Sox' Games.
+	
+##### Precondition
+
+	Fans must have signed up for an account in order to make posts/comments.
+	
+##### Post-condition
+	
+	Fans will post their thoughts and check back to see if anyone has input/comments.
+	
+##### Normal Flow
+	1.The Fan will Input their username, password, to login to the site.
+	2.The Fan will click on the discussion button to navigate to the forums.
+	3.The Fan will input their comment and post it to the thread.
+	4.The Fan will logout/login to check on the thread.
+	
+##### Alternate Flow
+	
+	A.Fan has forgotten their password.
+		
+		1.The system will tell the fan to check their email to change their password.
+		2.The fan will return to step 1 and resume normal flow.
